@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá gente! Sou Luana marques, sou programadora com o foco em<br>resolver problemas com soluções tecnológicas para a sociedade.<br>Sou desenvolvedora front-end com grande apreço em gestão de negócios e recentemente por Banco de Dados..<br>As ferramentas que uso são:<br>-Figma.<br>- HTML.<br>- CSS.<br>-JavaScript.<br>- React.<br><br>Minhas habilidades são:<br>-UI/UX.<br>-Lógica.<br>- Empatia.<br>-gestão.<br>-Liderança.<br><br>Adoro resolver problemas pois sinto que estou ajudando as pessoas.<br><br>Ninguém cresce sozinho, mas tu só precisa de você para começar.<br><br>
+Olá gente! Sou Luana marques, sou programadora com o foco em<br>resolver problemas com soluções tecnológicas para a sociedade.<br>Sou desenvolvedora front-end com grande apreço em gestão de negócios e recentemente por Banco de Dados..<br>As ferramentas que uso são:<br>- Figma.<br>- HTML.<br>- CSS.<br>-JavaScript.<br>- REACT.<br><br>Minhas habilidades são:<br>-UI/UX.<br>-Lógica.<br>- Empatia.<br>-gestão.<br>-Liderança.<br><br>Adoro resolver problemas pois sinto que estou ajudando as pessoas.<br><br>Ninguém cresce sozinho, mas tu só precisa de você para começar.<br><br>
 
 
 ## 🌐 Socials:
